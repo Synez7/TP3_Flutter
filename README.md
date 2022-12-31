@@ -9,16 +9,13 @@ Guide de lancement via Android Studio :
 
 4. Exécuter le fichier `main.dart` 
 
-<table class="center">
-  <tr>
-    <td align="center">Demo - Partie de Quiz</td>
-     <td align="center">Demo - Ajout d'une question à un Quiz</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><img src="./GIF_1.gif?raw=true" width=270 height=600></td>
-    <td style="text-align:center"><img src="./GIF_2.gif?raw=true" width=270 height=600></td>
-  </tr>
- </table>
+  <div class="row">
+  <div class="column">
+    <img src="./GIF_1.gif?raw=true" width=270 height=600>
+  </div>
+  <div class="column">
+    <img src="./GIF_2.gif?raw=true" width=270 height=600>
+  </div>
 
 
 :warning: <ins><b>Problème de compatibilité depuis un Web Browser <b></ins>:  
