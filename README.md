@@ -9,7 +9,6 @@ Guide de lancement via Android Studio :
 
 4. Exécuter le fichier `main.dart` 
     
-    <center>
     <table>
   <tr>
     <td align="center">Demo - Partie de Quiz</td>
@@ -20,7 +19,6 @@ Guide de lancement via Android Studio :
     <td><img src="./GIF_2.gif?raw=true" width=270 height=480></td>
   </tr>
  </table>
- </center>
 
 
 
