@@ -10,7 +10,7 @@ Guide de lancement via Android Studio :
 4. Exécuter le fichier `main.dart` 
 
 
-:warning: Problème de compatibilité depuis un Web Browser :
+:warning: <b>Problème de compatibilité depuis un Web Browser :<b>
 
 Assurez vous de bien tester l'application depuis un AVD sous Android Studio 
 
