@@ -12,5 +12,5 @@ Guide de lancement via Android Studio :
 
 :warning: <ins><b>Problème de compatibilité depuis un Web Browser <b></ins>:  
 
-Assurez vous de bien tester l'application depuis un AVD sous Android Studio 
+Assurez vous de bien tester l'application depuis un AVD sous Android Studio, l'APK de ce projet est fourni dans ce répertoire si jamais vous souhaitez l'essayer depuis votre smartphone
 
