@@ -9,13 +9,11 @@ Guide de lancement via Android Studio :
 
 4. Exécuter le fichier `main.dart` 
 
-  <div class="row">
-  <div>
-    <img src="./GIF_1.gif?raw=true" width=270 height=600>
-  </div>
-  <div>
-    <img src="./GIF_2.gif?raw=true" width=270 height=600>
-  </div>
+
+    <img class="left" src="./GIF_1.gif?raw=true" width=270 height=600>
+ 
+    <img class="right" src="./GIF_2.gif?raw=true" width=270 height=600>
+
 
 
 :warning: <ins><b>Problème de compatibilité depuis un Web Browser <b></ins>:  
