@@ -15,8 +15,8 @@ Guide de lancement via Android Studio :
      <td align="center">Demo - Ajout d'une question à un Quiz</td>
   </tr>
   <tr>
-    <td><img src="./GIF_1.gif?raw=true" width=270 height=480></td>
-    <td><img src="./GIF_2.gif?raw=true" width=270 height=480></td>
+    <td><img src="./GIF_1.gif?raw=true" width=350 height=480></td>
+    <td><img src="./GIF_2.gif?raw=true" width=350 height=480></td>
   </tr>
  </table>
 
