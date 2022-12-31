@@ -8,11 +8,17 @@ Guide de lancement via Android Studio :
 3. Créer un AVD et choisissez de préférence Pixel 5 avec l'API Lollipop 22 d'Android
 
 4. Exécuter le fichier `main.dart` 
-
-
-    <img class="left" src="./GIF_1.gif?raw=true" width=270 height=600>
- 
-    <img class="right" src="./GIF_2.gif?raw=true" width=270 height=600>
+    
+    <table>
+  <tr>
+    <td align="center">Demo - Partie de Quiz</td>
+    <td align="center">Demo - Ajout d'une question à un Quiz</td>
+  </tr>
+  <tr>
+    <td><img src="./GIF_1.gif?raw=true" width=270 height=480></td>
+    <td><img src="./GIF_2.gif?raw=true" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
