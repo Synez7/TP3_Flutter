@@ -11,8 +11,8 @@ Guide de lancement via Android Studio :
 
 <table>
   <tr>
-    <td align="center">Demo - Partie de Quiz</td>
-     <td align="center">Demo - Ajout d'une question à un Quiz</td>
+    <td align="left">Demo - Partie de Quiz</td>
+     <td align="right">Demo - Ajout d'une question à un Quiz</td>
   </tr>
   <tr>
     <td><img src="./GIF_1.gif?raw=true" width=270 height=600></td>
