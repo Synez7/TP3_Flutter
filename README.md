@@ -9,7 +9,7 @@ Guide de lancement via Android Studio :
 
 4. Exécuter le fichier `main.dart` 
 
-<table>
+<table class="center">
   <tr>
     <td align="left">Demo - Partie de Quiz</td>
      <td align="right">Demo - Ajout d'une question à un Quiz</td>
